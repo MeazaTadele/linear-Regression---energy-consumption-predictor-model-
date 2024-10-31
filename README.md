@@ -1,0 +1,3 @@
+# linear-Regression---energy-consumption-predictor-model-
+
+Energy consumption prediction in buildings is an important task to help organizations reduce costs and improve energy efficiency. By using linear regression, we can predict how much energy a building will use based on factors like temperature, humidity, time of day, day of the week, occupancy levels, insulation quality, and the number of appliances in use. Understanding how these factors influence energy usage helps organizations plan better and reduce their carbon footprint, which is increasingly important as businesses focus on sustainability.
